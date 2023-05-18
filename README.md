@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tino</h1>
-<h3 align="center">A passionate frontend developer from the UK 🇬🇧 Flag for United Kingdom Emoji 🇬🇧</h3>
+<h3 align="center">A passionate full stack web developer from the UK 🇬🇧 Flag for United Kingdom Emoji 🇬🇧</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
