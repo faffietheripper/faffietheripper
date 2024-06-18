@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tino</h1>
 <h3 align="center">A passionate full stack web developer from the UK 🇬🇧</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning React Native
 
 - 👨‍💻 All of my projects are available at [https://tinodaishe.works/](https://tinodaishe.works/)
 
-- 💬 Ask me about **React, Tailwind**
+- 💬 Ask me about **Nextjs, Tailwind**
 
 - 📫 How to reach me **skyrockersltd@gmail.com**
 
