@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Nextjs, Tailwind**
 
-- 📫 How to reach me **skyrockersltd@gmail.com**
+- 📫 How to reach me **tafadzwampofu24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
